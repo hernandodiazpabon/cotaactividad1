@@ -1,0 +1,113 @@
+{
+  "municipio": {
+    "nombre": "Cota",
+    "nombre_completo": "Municipio de Cota, Cundinamarca",
+    "codigo_dane": "25224",
+    "departamento": "Cundinamarca",
+    "poblacion": 28000,
+    "region": "Sabana Centro",
+    "nit": "800.123.456-7"
+  },
+  "alcaldia": {
+    "alcalde": "Alcalde Municipal",
+    "secretario_general": "Secretario General",
+    "secretario_tic": "Jefe de Sistemas y TIC",
+    "direccion": "Carrera 6 # 3-21, Centro",
+    "telefono_principal": "(601) 123 4567",
+    "telefono_alterno": "(601) 123 4568",
+    "correo_institucional": "alcaldia@cota-cundinamarca.gov.co",
+    "correo_sistemas": "sistemas@cota-cundinamarca.gov.co",
+    "correo_tic": "tic@cota-cundinamarca.gov.co",
+    "sitio_web": "https://www.cota-cundinamarca.gov.co",
+    "horario_atencion": "Lunes a Viernes 8:00 AM - 5:00 PM"
+  },
+  "sistema": {
+    "nombre": "Sistema de Gestión de Gobierno Digital",
+    "version": "1.0.0",
+    "desarrollador": "Ingeniería de Sistemas - Alcaldía de Cota",
+    "año": 2024,
+    "puerto_default": 8600,
+    "ruta_base": "C:/Sistema_Cota/"
+  },
+  "proyectos_prioritarios": [
+    {
+      "id": "PROY-001",
+      "nombre": "Modernización Portal Web Municipal",
+      "descripcion": "Rediseño y actualización del portal web institucional",
+      "estado": "En ejecución",
+      "prioridad": "Alta",
+      "fecha_inicio": "2024-01-15",
+      "fecha_fin_estimada": "2024-06-30"
+    },
+    {
+      "id": "PROY-002",
+      "nombre": "Sistema de PQRS Digital",
+      "descripcion": "Implementación de sistema digital de peticiones, quejas, reclamos y sugerencias",
+      "estado": "Planificación",
+      "prioridad": "Alta",
+      "fecha_inicio": "2024-03-01",
+      "fecha_fin_estimada": "2024-08-31"
+    },
+    {
+      "id": "PROY-003",
+      "nombre": "Digitalización de Trámites Municipales",
+      "descripcion": "Digitalización de 10 trámites priorizados",
+      "estado": "En ejecución",
+      "prioridad": "Media",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin_estimada": "2024-12-15"
+    },
+    {
+      "id": "PROY-004",
+      "nombre": "Fortalecimiento de Infraestructura TIC",
+      "descripcion": "Mejora de servidores, red y conectividad",
+      "estado": "En ejecución",
+      "prioridad": "Alta",
+      "fecha_inicio": "2024-01-10",
+      "fecha_fin_estimada": "2024-09-30"
+    }
+  ],
+  "indicadores_meta": {
+    "portal_web": {
+      "visitas_mensuales": 5000,
+      "paginas_vistas": 15000,
+      "tiempo_promedio": 3.5,
+      "tasa_rebote": 45
+    },
+    "tramites": {
+      "digitalizados": 15,
+      "porcentaje_online": 60,
+      "tiempo_respuesta": 72
+    },
+    "capacitacion": {
+      "funcionarios_capacitados": 100,
+      "horas_totales": 200,
+      "cobertura_dependencias": 80
+    },
+    "infraestructura": {
+      "servidores": 8,
+      "disponibilidad": 99.5,
+      "capacidad_almacenamiento": 5000
+    }
+  },
+  "dependencias_municipales": [
+    "Secretaría General",
+    "Secretaría de Gobierno",
+    "Secretaría de Hacienda",
+    "Secretaría de Planeación",
+    "Secretaría de Salud",
+    "Secretaría de Educación",
+    "Secretaría de Desarrollo Social",
+    "Oficina de Sistemas y TIC",
+    "Oficina de Contratación",
+    "Oficina de Control Interno"
+  ],
+  "normativas_aplicables": [
+    "Ley 2018 de 2019 - Gobierno Digital",
+    "Decreto 1008 de 2018",
+    "CONPES 3975 de 2019",
+    "Plan de Desarrollo Municipal Cota 2024-2027",
+    "Plan Municipal de Tecnologías de la Información",
+    "Estatuto de Contratación Municipal"
+  ]
+}
